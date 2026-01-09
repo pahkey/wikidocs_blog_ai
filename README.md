@@ -14,7 +14,7 @@ Claude AI를 활용하여 시를 자동으로 생성하고, AI 이미지와 함�
 - Python 3.12 이상 (Python 3.14 사용 시 경고가 발생할 수 있지만 실행에는 문제없습니다)
 - 다음 API 키가 필요합니다:
   - [Anthropic API 키](https://console.anthropic.com/) (Claude AI)
-  - [위키독스 API 키](https://wikidocs.net/mypage)
+  - [위키독스 API 키](https://wikidocs.net/178030)
   - [Freepik API 키](https://www.freepik.com/api)
 
 ## 🚀 설치 방법
